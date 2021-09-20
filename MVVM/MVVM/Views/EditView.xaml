@@ -1,0 +1,19 @@
+﻿<Window x:Class="MVVM.Views.EditView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MVVM.Views"
+        mc:Ignorable="d"
+        Title="EditView" Height="450" Width="800">
+    <StackPanel Width="350">
+        <Label FontSize="32">Vendor</Label>
+        <TextBox Text="{Binding Car.Vendor,UpdateSourceTrigger=PropertyChanged}" Foreground="Blue" FontSize="32"></TextBox>
+        <Label FontSize="32">Model</Label>
+        <TextBox Text="{Binding Car.Model,UpdateSourceTrigger=PropertyChanged}" FontSize="32" Foreground="Blue"></TextBox>
+        <Label FontSize="32">Year</Label>
+        <TextBox Text="{Binding Car.Year,UpdateSourceTrigger=PropertyChanged}" FontSize="32" Foreground="Blue"></TextBox>
+        <Button Command="{Binding CloseCommand}" FontSize="32" Margin="10">Close</Button>
+        
+    </StackPanel>
+</Window>
