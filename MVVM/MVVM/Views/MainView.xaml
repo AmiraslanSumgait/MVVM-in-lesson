@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MVVM.Views" xmlns:ViewModels="clr-namespace:MVVM.ViewModels"
         mc:Ignorable="d"
-        Title="MainView" Height="450" Width="800">
+        Title="MainView" Height="500" Width="800">
     <Window.DataContext>
         <ViewModels:MainViewModel></ViewModels:MainViewModel>
     </Window.DataContext>

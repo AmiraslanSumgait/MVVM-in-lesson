@@ -12,6 +12,15 @@ namespace MVVM.Command
         public event EventHandler CanExecuteChanged;
         private Action<Object> _execute { get; set; }
         private Predicate<Object> _canExecute { get; set; }
+        public RelayCommand(Action<Object> execute, Predicate<Object> canExecute = null)
+        {
+            if (execute == null)
+            {
+                throw new NullReferenceException("Execute null");
+            }
+            _execute = execute;
+            _canExecute = canExecute;
+        }
         public bool CanExecute(object parameter)
         {
             return _canExecute == null ? true : _canExecute(parameter);
@@ -21,14 +30,6 @@ namespace MVVM.Command
         {
             _execute.Invoke(parameter);
         }
-        public RelayCommand(Action<Object>execute,Predicate<Object> canExecute=null)
-        {
-            if (execute == null)
-            {
-                throw new NullReferenceException("Execute null");
-            }
-            _execute = execute;
-            _canExecute = canExecute;
-        }
+       
     }
 }

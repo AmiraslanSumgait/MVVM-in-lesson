@@ -1,0 +1,17 @@
+C:\Users\Amiraslan\Source\Repos\MVVM-in-lesson\MVVM\MVVM\bin\Release\MVVM.exe.config
+C:\Users\Amiraslan\Source\Repos\MVVM-in-lesson\MVVM\MVVM\bin\Release\MVVM.exe
+C:\Users\Amiraslan\Source\Repos\MVVM-in-lesson\MVVM\MVVM\bin\Release\MVVM.pdb
+C:\Users\Amiraslan\Source\Repos\MVVM-in-lesson\MVVM\MVVM\obj\Release\Views\EditView.g.cs
+C:\Users\Amiraslan\Source\Repos\MVVM-in-lesson\MVVM\MVVM\obj\Release\Views\MainView.g.cs
+C:\Users\Amiraslan\Source\Repos\MVVM-in-lesson\MVVM\MVVM\obj\Release\App.g.cs
+C:\Users\Amiraslan\Source\Repos\MVVM-in-lesson\MVVM\MVVM\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Amiraslan\Source\Repos\MVVM-in-lesson\MVVM\MVVM\obj\Release\MVVM_MarkupCompile.cache
+C:\Users\Amiraslan\Source\Repos\MVVM-in-lesson\MVVM\MVVM\obj\Release\MVVM_MarkupCompile.lref
+C:\Users\Amiraslan\Source\Repos\MVVM-in-lesson\MVVM\MVVM\obj\Release\Views\EditView.baml
+C:\Users\Amiraslan\Source\Repos\MVVM-in-lesson\MVVM\MVVM\obj\Release\Views\MainView.baml
+C:\Users\Amiraslan\Source\Repos\MVVM-in-lesson\MVVM\MVVM\obj\Release\MVVM.g.resources
+C:\Users\Amiraslan\Source\Repos\MVVM-in-lesson\MVVM\MVVM\obj\Release\MVVM.Properties.Resources.resources
+C:\Users\Amiraslan\Source\Repos\MVVM-in-lesson\MVVM\MVVM\obj\Release\MVVM.csproj.GenerateResource.cache
+C:\Users\Amiraslan\Source\Repos\MVVM-in-lesson\MVVM\MVVM\obj\Release\MVVM.csproj.CoreCompileInputs.cache
+C:\Users\Amiraslan\Source\Repos\MVVM-in-lesson\MVVM\MVVM\obj\Release\MVVM.exe
+C:\Users\Amiraslan\Source\Repos\MVVM-in-lesson\MVVM\MVVM\obj\Release\MVVM.pdb

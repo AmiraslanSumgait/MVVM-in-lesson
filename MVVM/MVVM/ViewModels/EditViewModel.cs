@@ -14,7 +14,7 @@ namespace MVVM.ViewModels
     {
         public Car Car { get; set; }
         public RelayCommand CloseCommand { get; set; }
-        
+       
 
         public EditViewModel()
         {
@@ -23,7 +23,7 @@ namespace MVVM.ViewModels
                action => {
                    foreach (Window window in Application.Current.Windows)
                    {
-                       if (window.Name =="EditView") window.Close();
+                       if (window.Title == "EditView") window.Close();
                    }
                },
                p => true

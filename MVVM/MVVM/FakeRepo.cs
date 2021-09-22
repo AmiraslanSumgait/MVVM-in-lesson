@@ -25,15 +25,15 @@ namespace MVVM
                 new Car
                 {
                     Id=2,
-                     Model="x100",
+                     Model="x5",
                       Vendor="Bmw",
                        Year="2010"
                 },
                 new Car
                 {
                     Id=3,
-                     Model="x100",
-                      Vendor="Bmw",
+                     Model="G-class",
+                      Vendor="Mercedes",
                        Year="2010"
                 },
                 new Car
