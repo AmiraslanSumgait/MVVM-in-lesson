@@ -41,6 +41,7 @@ namespace MVVM.ViewModels
                     EditViewModel.Car = Car;
                     var editView = new EditView();
                     editView.DataContext = EditViewModel;
+                    
                     editView.ShowDialog();
                 },
                 predicate=>true

@@ -11,7 +11,7 @@
     </Window.DataContext>
 
     <StackPanel Width="350">
-        <ComboBox DisplayMemberPath="Model" ItemsSource="{Binding Cars}" FontSize="28"></ComboBox>
+        <ComboBox DisplayMemberPath="Vendor" ItemsSource="{Binding Cars}" SelectedItem="{Binding Car,UpdateSourceTrigger=PropertyChanged}" FontSize="28"></ComboBox>
         <Label FontSize="32">Vendor</Label>
         <TextBlock Text="{Binding Car.Vendor}" Foreground="Blue" FontSize="32"></TextBlock>
         <Label FontSize="32">Model</Label>

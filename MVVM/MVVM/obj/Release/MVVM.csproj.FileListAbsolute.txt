@@ -15,3 +15,4 @@ C:\Users\Amiraslan\Source\Repos\MVVM-in-lesson\MVVM\MVVM\obj\Release\MVVM.csproj
 C:\Users\Amiraslan\Source\Repos\MVVM-in-lesson\MVVM\MVVM\obj\Release\MVVM.csproj.CoreCompileInputs.cache
 C:\Users\Amiraslan\Source\Repos\MVVM-in-lesson\MVVM\MVVM\obj\Release\MVVM.exe
 C:\Users\Amiraslan\Source\Repos\MVVM-in-lesson\MVVM\MVVM\obj\Release\MVVM.pdb
+C:\Users\Amiraslan\Source\Repos\MVVM-in-lesson\MVVM\MVVM\obj\Release\MVVM.csproj.AssemblyReference.cache
